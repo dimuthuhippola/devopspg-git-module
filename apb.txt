@@ -1,2 +1,6 @@
 this is a dummy file
+<<<<<<< Updated upstream
 edit from git hub
+=======
+mofification from local
+>>>>>>> Stashed changes
